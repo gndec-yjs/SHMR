@@ -9,6 +9,6 @@
 
 ## Resources
 - [Farrar, C. R., & Worden, K. (2010). **An Introduction to Structural Health Monitoring**. CISM International Centre for Mechanical Sciences, 1–17. doi:10.1007/978-3-7091-0399-9_1](Resources/Introduction_to_SHM.pdf)
-- [Kralovec, C., & Schagerl, M. (2020). **Review of Structural Health Monitoring Methods Regarding a Multi-Sensor Approach for Damage Assessment of Metal and Composite Structures**. Sensors, 20(3), 826. https://doi.org/10.3390/s20030826](esources/sensors.pdf)
+- [Kralovec, C., & Schagerl, M. (2020). **Review of Structural Health Monitoring Methods Regarding a Multi-Sensor Approach for Damage Assessment of Metal and Composite Structures**. Sensors, 20(3), 826. https://doi.org/10.3390/s20030826](Resources/sensors.pdf)
 - [An integrated approach for structural health monitoring - A PhD Thesis](https://web.iitd.ac.in/~sbhalla/thesispdf/ramashanker.pdf)
 
