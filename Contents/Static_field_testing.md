@@ -149,6 +149,7 @@ Static field testing is essential for evaluating the structural integrity and se
 5. Doebelin, E. O., & Manik, D. N. (2007). *Measurement Systems: Application and Design*. McGraw-Hill Education.  
 6. Holst, G. C. (2006). *Electro-Optical Imaging System Performance*. SPIE Press.  
 7. Wang, M. L., Lynch, J. P., & Sohn, H. (Eds.). (2014). *Sensor Technologies for Civil Infrastructures, Vol. 1*. Woodhead Publishing.  
-```
+
+---
 
 
