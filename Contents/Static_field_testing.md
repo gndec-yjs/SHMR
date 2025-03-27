@@ -33,7 +33,7 @@ Static field testing involves applying controlled loads to a structure and measu
 
 ---
 
-## 3. (Simulation and Loading Methods)[Simulation_and_Loading_Methods.md)
+## 3. [Simulation and Loading Methods](Simulation_and_Loading_Methods.md)
 
 ### a) Loading Methods  
 1. **Hydraulic Jacking Method:**  
