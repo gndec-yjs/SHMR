@@ -5,7 +5,7 @@ Static field testing involves applying controlled loads to a structure and measu
 
 ---
 
-## 2. Types of Static Tests  
+## 2. [Types of Static Tests](Types_of_Static_Tests.md)
 
 ### a) Load Testing  
 - Used to assess the strength and serviceability of structural elements.  
@@ -33,7 +33,7 @@ Static field testing involves applying controlled loads to a structure and measu
 
 ---
 
-## 3. Simulation and Loading Methods  
+## 3. (Simulation and Loading Methods)[Simulation_and_Loading_Methods.md)
 
 ### a) Loading Methods  
 1. **Hydraulic Jacking Method:**  
@@ -69,7 +69,7 @@ Static field testing involves applying controlled loads to a structure and measu
 
 ---
 
-## 4. Sensor Systems and Hardware Requirements  
+## 4. [Sensor Systems and Hardware Requirements](Sensor_Systems_and_Hardware_Requirements.md)
 
 ### a) Types of Sensors Used in Static Field Testing  
 1. **Strain Gauges:**  
@@ -96,7 +96,7 @@ Static field testing involves applying controlled loads to a structure and measu
    - Measures changes in inclination or rotation of structures.  
    - Used in foundation and retaining wall studies.  
 
-### b) Hardware Requirements for Static Testing  
+### b) Hardware Requirements for Static Testing
 1. **Data Acquisition Systems (DAQs):**  
    - Collects, stores, and processes sensor data.  
    - Converts analog signals into digital data for analysis.  
@@ -113,7 +113,7 @@ Static field testing involves applying controlled loads to a structure and measu
 
 ---
 
-## 5. Static Response Measurement  
+## 5. [Static Response Measurement](Static_response_measurement.md)
 
 ### a) Deflection Measurement  
 - Measured using displacement sensors, dial gauges, or laser techniques.  
@@ -137,4 +137,18 @@ Static field testing involves applying controlled loads to a structure and measu
 ---
 
 # Conclusion  
-Static field testing is essential for evaluating the structural integrity and serviceability of civil engineering structures. It involves various testing techniques, simulation methods, sensor systems, and response measurements to ensure safety and reliability. Engineers use static tests to validate design assumptions, assess material performance, and plan necessary repairs or reinforcements.  
+Static field testing is essential for evaluating the structural integrity and serviceability of civil engineering structures. It involves various testing techniques, simulation methods, sensor systems, and response measurements to ensure safety and reliability. Engineers use static tests to validate design assumptions, assess material performance, and plan necessary repairs or reinforcements. 
+
+---
+## References  
+
+1. Balageas, D., Fritzen, C. P., & Güemes, A. (2006). *Structural Health Monitoring*. John Wiley & Sons.  
+2. Adams, D. E. (2007). *Health Monitoring of Structural Materials and Components Methods with Applications*. John Wiley & Sons.  
+3. Ou, J. P., Li, H., & Duan, Z. D. (2006). *Structural Health Monitoring and Intelligent Infrastructure, Vol.1*. Taylor & Francis Group.  
+4. Giurgiutiu, V. (2007). *Structural Health Monitoring with Wafer Active Sensors*. Academic Press Inc.  
+5. Doebelin, E. O., & Manik, D. N. (2007). *Measurement Systems: Application and Design*. McGraw-Hill Education.  
+6. Holst, G. C. (2006). *Electro-Optical Imaging System Performance*. SPIE Press.  
+7. Wang, M. L., Lynch, J. P., & Sohn, H. (Eds.). (2014). *Sensor Technologies for Civil Infrastructures, Vol. 1*. Woodhead Publishing.  
+```
+
+
