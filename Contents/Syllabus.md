@@ -26,7 +26,7 @@ Upon completion of this course, students will be able to:
 **Introduction to Modern Techniques:** Piezo–electric materials and other smart materials, Electro–mechanical impedance (EMI) technique, Adaptations of EMI technique
 
 ## 📚 Reference Books
-1. *Structural Health Monitoring* - Daniel Balageas, Claus Peter Fritzen, Alfredo Güemes, John Wiley and Sons
-2. *Health Monitoring of Structural Materials and Components: Methods with Applications* - Douglas E Adams, John Wiley and Sons
+1. [*Structural Health Monitoring* - Daniel Balageas, Claus Peter Fritzen, Alfredo Güemes, John Wiley and Sons](Resources/SHM_Daniel.pdf)
+2. [*Health Monitoring of Structural Materials and Components: Methods with Applications* - Douglas E Adams, John Wiley and Sons](Resources/SHM_Douglas.pdf)
 3. *Structural Health Monitoring and Intelligent Infrastructure, Vol.1* - J. P. Ou, H. Li, Z. D. Duan, Taylor and Francis Group
 4. *Structural Health Monitoring with Wafer Active Sensors* - Victor Giurglutiu, Academic Press Inc.
