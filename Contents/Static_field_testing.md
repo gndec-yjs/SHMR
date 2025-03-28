@@ -142,8 +142,8 @@ Static field testing is essential for evaluating the structural integrity and se
 ---
 ## References  
 
-1. Balageas, D., Fritzen, C. P., & Güemes, A. (2006). *Structural Health Monitoring*. John Wiley & Sons.  
-2. Adams, D. E. (2007). *Health Monitoring of Structural Materials and Components Methods with Applications*. John Wiley & Sons.  
+1. [Balageas, D., Fritzen, C. P., & Güemes, A. (2006). *Structural Health Monitoring*. John Wiley & Sons.](Resources/SHM_Daniel.pdf)
+2. [Adams, D. E. (2007). *Health Monitoring of Structural Materials and Components Methods with Applications*. John Wiley & Sons.](Resources/SHM_Douglas.pdf)
 3. Ou, J. P., Li, H., & Duan, Z. D. (2006). *Structural Health Monitoring and Intelligent Infrastructure, Vol.1*. Taylor & Francis Group.  
 4. Giurgiutiu, V. (2007). *Structural Health Monitoring with Wafer Active Sensors*. Academic Press Inc.  
 5. Doebelin, E. O., & Manik, D. N. (2007). *Measurement Systems: Application and Design*. McGraw-Hill Education.  
