@@ -132,7 +132,7 @@ Dynamic response methods are essential for understanding how structures behave u
 
 ---
 
-## 8. References
+## References
 1. Chopra, A. K. (2019). *Dynamics of Structures: Theory and Applications to Earthquake Engineering*. Pearson.
 2. Clough, R. W., & Penzien, J. (2003). *Dynamics of Structures*. McGraw-Hill.
 3. Rao, S. S. (2011). *Mechanical Vibrations*. Pearson.
