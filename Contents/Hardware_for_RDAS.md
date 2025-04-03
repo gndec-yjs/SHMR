@@ -170,7 +170,7 @@ Remote Data Acquisition Systems (RDAS) are revolutionizing **structural health m
 
 ---
 
-## 7. References
+## References
 1. Bentley, J. P. (2005). *Principles of Measurement Systems*. Pearson.
 2. Holbert, K. E., & Gajda, I. (2017). *Remote Data Acquisition Techniques*. IEEE Press.
 3. Dobie, G., & Pieraccini, M. (2018). *Structural Health Monitoring: Sensor Technology and Applications*. Wiley.
