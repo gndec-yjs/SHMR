@@ -166,7 +166,7 @@ Remote Structural Health Monitoring (SHM) is transforming the **safety, efficien
 
 ---
 
-## 7. References
+## References
 1. Farrar, C. R., & Worden, K. (2012). *Structural Health Monitoring: A Machine Learning Perspective*. Wiley.
 2. Lynch, J. P., & Loh, K. J. (2006). *A Summary Review of Wireless Sensors and Sensor Networks for Structural Health Monitoring*. Shock and Vibration Digest.
 3. Worden, K., Farrar, C. R., Manson, G., & Park, G. (2007). *The Fundamental Axioms of Structural Health Monitoring*. Proceedings of the Royal Society.
