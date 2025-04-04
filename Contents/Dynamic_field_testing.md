@@ -1,13 +1,6 @@
 # Dynamic Field Testing
 
 ## 1. Introduction
-<style>
-  .hover-term {
-    border-bottom: 1px dotted #555;
-    cursor: help;
-    color: darkblue;
-  }
-</style>
 Dynamic field testing is an essential technique for evaluating the real-time performance of structures under dynamic loads such as traffic, wind, seismic forces, and machinery-induced vibrations. These tests help assess stress distribution, 
 <span class="hover-term" title="The weakening of a material caused by repeatedly applied loads">fatigue</span> 
 behavior, and overall structural integrity. 
@@ -46,7 +39,7 @@ Dynamic tests can be categorized based on the nature of the applied loads and me
 
 ## 3. [Stress History Data](Stress_history_data.md)
 Stress history data provides insight into past loading conditions and their effects on structural components. It is critical for:
-- **<span class="hover-term" title="The weakening of a material caused by repeatedly applied loads">fatigue</span>  analysis**: Determines the accumulation of stress cycles leading to potential failure.
+- **<span class="hover-term" title="The weakening of a material caused by repeatedly applied loads">Fatigue</span>  analysis**: Determines the accumulation of stress cycles leading to potential failure.
 - **Remaining service life estimation**: Assesses whether the structure can continue operating safely.
 - **Damage detection**: Identifies excessive stress concentrations or overloading instances.
 
@@ -125,4 +118,12 @@ Dynamic field testing plays a vital role in evaluating the performance of struct
 3. Sohn, H., Farrar, C. R., Hemez, F. M., & Czarnecki, J. J. (2003). "A Review of Structural Health Monitoring Literature 1996–2001." Los Alamos National Laboratory.
 4. Catbas, F. N., & Aktan, A. E. (2002). "Condition and Damage Assessment: Issues and Some Promising Indices." *Journal of Structural Engineering*, 128(8), 1026-1036.
 5. Salawu, O. S. (1997). "Detection of Structural Damage through Changes in Frequency: A Review." *Engineering Structures*, 19(9), 718-723.
+
+<style>
+  .hover-term {
+    border-bottom: 1px dotted #555;
+    cursor: help;
+    color: darkblue;
+  }
+</style>
 
