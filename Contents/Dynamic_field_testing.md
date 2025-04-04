@@ -119,4 +119,11 @@ Dynamic field testing plays a vital role in evaluating the performance of struct
 4. Catbas, F. N., & Aktan, A. E. (2002). "Condition and Damage Assessment: Issues and Some Promising Indices." *Journal of Structural Engineering*, 128(8), 1026-1036.
 5. Salawu, O. S. (1997). "Detection of Structural Damage through Changes in Frequency: A Review." *Engineering Structures*, 19(9), 718-723.
 
+<style>
+  .hover-term {
+    border-bottom: 1px dotted #555;
+    cursor: help;
+    color: darkblue;
+  }
+</style>
 
