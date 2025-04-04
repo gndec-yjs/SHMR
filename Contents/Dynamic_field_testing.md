@@ -46,7 +46,7 @@ Dynamic tests can be categorized based on the nature of the applied loads and me
 
 ## 3. [Stress History Data](Stress_history_data.md)
 Stress history data provides insight into past loading conditions and their effects on structural components. It is critical for:
-- **Fatigue analysis**: Determines the accumulation of stress cycles leading to potential failure.
+- **<span class="hover-term" title="The weakening of a material caused by repeatedly applied loads">fatigue</span>  analysis**: Determines the accumulation of stress cycles leading to potential failure.
 - **Remaining service life estimation**: Assesses whether the structure can continue operating safely.
 - **Damage detection**: Identifies excessive stress concentrations or overloading instances.
 
