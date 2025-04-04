@@ -1,7 +1,7 @@
 # Dynamic Field Testing
 
 ## 1. Introduction
-Dynamic field testing is an essential technique for evaluating the real-time performance of structures under dynamic loads such as traffic, wind, seismic forces, and machinery-induced vibrations. These tests help assess stress distribution, fatigue behavior, and overall structural integrity.
+Dynamic field testing is an essential technique for evaluating the real-time performance of structures under dynamic loads such as traffic, wind, seismic forces, and machinery-induced vibrations. These tests help assess stress distribution, <span title="The weakening of a material caused by repeatedly applied loads">fatigue</span> behavior, and overall structural integrity.
 
 ## 2. [Types of Dynamic Field Tests](Types_of_dynamic_field_tests.md)
 Dynamic tests can be categorized based on the nature of the applied loads and measurement objectives:
