@@ -52,11 +52,11 @@ Z_{EMI} = \frac{V}{I} = R + jX
 $$
 
 Where:  
-- Z_{EMI}: Electro-mechanical impedance  
+- Z<sub>EMI</sub>: Electro-mechanical impedance  
 - R: Resistance  
 - X: Reactance  
 
-Deviations in Z_{EMI} over time signal possible damage.
+Deviations in Z<sub>EMI</sub> over time signal possible damage.
 
 ### 3.2 Implementation
 - Piezo sensors are bonded to the surface or embedded in the structure.
