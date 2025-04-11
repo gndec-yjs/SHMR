@@ -46,6 +46,7 @@ The EMI technique relies on the high-frequency structural vibration responses of
 - Any structural damage alters the impedance signature.
 
 **Mathematical Formulation**:
+
 $$
 Z_{EMI} = \frac{V}{I} = R + jX
 $$
