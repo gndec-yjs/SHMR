@@ -5,7 +5,7 @@
 ### 3. [Structural audit](Structural_audit.md)
 ### 4. [Static field testing](Static_field_testing.md)
 ### 5. [Dynamic field testing](Dynamic_field_testing.md)
-### 6. Introduction to modern techniques
+### 6. [Introduction to modern techniques](Introduction_to_Modern_Techniques.md)
 
 ## Resources
 
