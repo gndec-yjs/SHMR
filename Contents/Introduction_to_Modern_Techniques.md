@@ -1,4 +1,4 @@
-# Introduction to Modern Techniques in Structural Health Monitoring
+# Introduction to Modern Techniques
 
 ## 1. Introduction
 Modern techniques in structural health monitoring (SHM) have introduced smart materials and advanced sensing methodologies to detect early signs of damage in structures. These methods are particularly advantageous in terms of real-time monitoring, high sensitivity, and integration with wireless data transmission. This chapter focuses on the use of piezoelectric materials, smart materials, the Electro-Mechanical Impedance (EMI) technique, and its adaptations.
