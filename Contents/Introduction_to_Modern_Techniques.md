@@ -17,9 +17,9 @@ Modern techniques in structural health monitoring (SHM) have introduced smart ma
 - Bonded to or embedded in structures to monitor vibrations, cracks, and other damages.
 
 **Common Piezoelectric Materials**:
-- Lead Zirconate Titanate (PZT)
-- Quartz
-- Barium Titanate
+- Lead Zirconate Titanate (PZT), Pb(ZrₓTi₁₋ₓ)O₃
+- Quartz, SiO₂
+- Barium Titanate, BaTiO₃
 
 ### 2.2 Smart Materials
 **Definition**: Materials that can respond to external stimuli (e.g., stress, temperature, magnetic field) by changing their properties.
