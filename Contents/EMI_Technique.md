@@ -16,20 +16,21 @@ Any **damage or variation** in the mechanical properties of the structure alters
 
 ## 3. Mathematical Formulation
 
-The **electro-mechanical impedance** \( Z_{EMI} \) is defined as:
+The electro-mechanical impedance $Z_{\text{EMI}}$ is defined as:
 
-```math
-Z_{EMI} = \frac{V}{I} = R + jX
-```
+$$
+Z_{\text{EMI}} = \frac{V}{I} = R + jX
+$$
 
 Where:
-- \( Z_{EMI} \): Electro-mechanical impedance
-- \( V \): Voltage applied to the piezoelectric patch
-- \( I \): Current through the patch
-- \( R \): Resistance (real part)
-- \( X \): Reactance (imaginary part)
 
-**Deviations** in the impedance spectrum over time are indicative of **structural changes or damage**.
+- $Z_{\text{EMI}}$: Electro-mechanical impedance  
+- $V$: Voltage applied to the piezoelectric patch  
+- $I$: Current through the patch  
+- $R$: Resistance (real part)  
+- $X$: Reactance (imaginary part)
+
+Deviations in $Z_{\text{EMI}}$ over time signal possible structural damage.
 
 ---
 
