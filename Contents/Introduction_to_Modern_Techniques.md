@@ -21,7 +21,7 @@ Modern techniques in structural health monitoring (SHM) have introduced smart ma
 - Quartz, SiO₂
 - Barium Titanate, BaTiO₃
 
-### 2.2 Smart Materials
+### 2.2 [Smart Materials](Smart_Materials.md)
 **Definition**: Materials that can respond to external stimuli (e.g., stress, temperature, magnetic field) by changing their properties.
 
 **Types of Smart Materials**:
