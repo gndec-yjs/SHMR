@@ -16,7 +16,7 @@ Any **damage or variation** in the mechanical properties of the structure alters
 
 ## 3. Mathematical Formulation
 
-The electro-mechanical impedance `Z<sub>EMI</sub>` is defined as:
+The electro-mechanical impedance Z<sub>EMI</sub> is defined as:
 
 **Z<sub>EMI</sub> = V / I = R + jX**
 
