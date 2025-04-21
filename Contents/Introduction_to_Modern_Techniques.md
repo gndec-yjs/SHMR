@@ -47,17 +47,18 @@ The EMI technique relies on the high-frequency structural vibration responses of
 
 **Mathematical Formulation**:
 
-$$
-Z_{\text{EMI}} = \frac{V}{I} = R + jX
-$$
+The electro-mechanical impedance Z<sub>EMI</sub> is defined as:
 
-Where:
+**Z<sub>EMI</sub> = V / I = R + jX**
 
-- $Z_{\text{EMI}}$: Electro-mechanical impedance  
-- $R$: Resistance  
-- $X$: Reactance  
+Where:  
+- Z<sub>EMI</sub>: Electro-mechanical impedance  
+- V: Voltage applied to the piezoelectric patch  
+- I: Current through the patch  
+- R: Resistance (real part)  
+- X: Reactance (imaginary part)  
 
-Deviations in $Z_{\text{EMI}}$ over time signal possible damage.
+Deviations in Z<sub>EMI</sub> over time signal possible structural damage.
 
 ### 3.2 Implementation
 - Piezo sensors are bonded to the surface or embedded in the structure.
