@@ -7,20 +7,20 @@ Piezoelectric materials are smart materials that generate an electric charge whe
 ## 2. Piezoelectric Effect
 
 ### 2.1 Direct Piezoelectric Effect
+
 When a mechanical force is applied to a piezoelectric material, electric charges accumulate on its surfaces.
 
 **Mathematical Formulation:**
 
-$$
-D = d \cdot T + \epsilon \cdot E
-$$
+$D = d \cdot T + \epsilon \cdot E$
 
-Where:  
-- \( D \): Electric displacement (C/m²)  
-- \( d \): Piezoelectric constant (C/N)  
-- \( T \): Mechanical stress (N/m²)  
-- \( \epsilon \): Permittivity (F/m)  
-- \( E \): Electric field (V/m)
+Where:
+
+- D: Electric displacement (C/m²)
+- d: Piezoelectric constant (C/N)
+- T: Mechanical stress (N/m²)
+- ε: Permittivity (F/m)
+- E: Electric field (V/m)
 
 ### 2.2 Inverse Piezoelectric Effect
 When an electric field is applied, the material deforms mechanically.
