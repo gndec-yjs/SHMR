@@ -16,21 +16,18 @@ Any **damage or variation** in the mechanical properties of the structure alters
 
 ## 3. Mathematical Formulation
 
-The electro-mechanical impedance $Z_{\text{EMI}}$ is defined as:
+The electro-mechanical impedance `Z<sub>EMI</sub>` is defined as:
 
-$$
-Z_{\text{EMI}} = \frac{V}{I} = R + jX
-$$
+**Z<sub>EMI</sub> = V / I = R + jX**
 
-Where:
+Where:  
+- Z<sub>EMI</sub>: Electro-mechanical impedance  
+- V: Voltage applied to the piezoelectric patch  
+- I: Current through the patch  
+- R: Resistance (real part)  
+- X: Reactance (imaginary part)  
 
-- $Z_{\text{EMI}}$: Electro-mechanical impedance  
-- $V$: Voltage applied to the piezoelectric patch  
-- $I$: Current through the patch  
-- $R$: Resistance (real part)  
-- $X$: Reactance (imaginary part)
-
-Deviations in $Z_{\text{EMI}}$ over time signal possible structural damage.
+Deviations in Z<sub>EMI</sub> over time signal possible structural damage.
 
 ---
 
@@ -62,17 +59,15 @@ Quantitative analysis may use damage indices such as:
 
 ### Root Mean Square Deviation (RMSD):
 
-The Root Mean Square Deviation (RMSD) is calculated as:
+The RMSD is defined as:
 
-$$
-\text{RMSD} = \sqrt{ \frac{ \sum_{i=1}^{n} \left( Z_{i}^{b} - Z_{i}^{c} \right)^2 }{ \sum_{i=1}^{n} \left( Z_{i}^{b} \right)^2 } }
-$$
+**RMSD = √( ∑<sub>i=1</sub><sup>n</sup> (Z<sub>i</sub><sup>b</sup> - Z<sub>i</sub><sup>c</sup>)<sup>2</sup> / ∑<sub>i=1</sub><sup>n</sup> (Z<sub>i</sub><sup>b</sup>)<sup>2</sup> )**
 
 Where:
 
-- $Z_{i}^{b}$: Baseline impedance  
-- $Z_{i}^{c}$: Current impedance  
-- $n$: Number of frequency points
+- Z<sub>i</sub><sup>b</sup>: Baseline impedance
+- Z<sub>i</sub><sup>c</sup>: Current impedance
+- n: Number of frequency points
 
 ## 6. Advantages of EMI Technique
 
