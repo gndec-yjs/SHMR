@@ -35,7 +35,7 @@ Modern techniques in structural health monitoring (SHM) have introduced smart ma
 - Improve monitoring precision and system efficiency.
 
 
-## 3. Electro-Mechanical Impedance (EMI) Technique
+## 3. [Electro-Mechanical Impedance (EMI) Technique](EMI_Technique.md)
 
 ### 3.1 Principle of EMI
 The EMI technique relies on the high-frequency structural vibration responses of piezoelectric patches bonded to a host structure.
