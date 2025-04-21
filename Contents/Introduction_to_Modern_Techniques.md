@@ -5,7 +5,7 @@ Modern techniques in structural health monitoring (SHM) have introduced smart ma
 
 ## 2. Piezoelectric Materials and Smart Materials
 
-### 2.1 Piezoelectric Materials
+### 2.1 [Piezoelectric Materials](Piezoelectric_Materials.md)
 **Definition**: Piezoelectric materials generate an electric charge in response to applied mechanical stress and vice versa (electromechanical coupling).
 
 **Working Principle**:
