@@ -62,16 +62,17 @@ Quantitative analysis may use damage indices such as:
 
 ### Root Mean Square Deviation (RMSD):
 
-```math
-RMSD = \sqrt{ \frac{ \sum_{i=1}^{n} (Z_{i}^{b} - Z_{i}^{c})^2 }{ \sum_{i=1}^{n} (Z_{i}^{b})^2 } }
-```
+The Root Mean Square Deviation (RMSD) is calculated as:
+
+$$
+\text{RMSD} = \sqrt{ \frac{ \sum_{i=1}^{n} \left( Z_{i}^{b} - Z_{i}^{c} \right)^2 }{ \sum_{i=1}^{n} \left( Z_{i}^{b} \right)^2 } }
+$$
 
 Where:
-- \( Z_{i}^{b} \): Baseline impedance
-- \( Z_{i}^{c} \): Current impedance
-- \( n \): Number of frequency points
 
----
+- $Z_{i}^{b}$: Baseline impedance  
+- $Z_{i}^{c}$: Current impedance  
+- $n$: Number of frequency points
 
 ## 6. Advantages of EMI Technique
 
