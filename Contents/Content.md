@@ -7,6 +7,8 @@
 ### 5. [Dynamic field testing](Dynamic_field_testing.md)
 ### 6. [Introduction to modern techniques](Introduction_to_Modern_Techniques.md)
 
+## [Assignments](Assignment_2025.md)
+
 ## Resources
 
 - [Farrar, C. R., & Worden, K. (2010). **An Introduction to Structural Health Monitoring**. CISM International Centre for Mechanical Sciences, 1–17. doi:10.1007/978-3-7091-0399-9_1](Resources/Introduction_to_SHM.pdf)
