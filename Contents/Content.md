@@ -7,7 +7,8 @@
 ### 5. [Dynamic field testing](Dynamic_field_testing.md)
 ### 6. [Introduction to modern techniques](Introduction_to_Modern_Techniques.md)
 
-## [Assignments](Assignment_2025.md)
+## Assignments 
+- [Jan-June 2025](Assignment_2025.md)
 
 ## Resources
 
