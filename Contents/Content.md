@@ -8,7 +8,7 @@
 ### 6. [Introduction to modern techniques](Introduction_to_Modern_Techniques.md)
 
 ## Assignments 
-- [Jan-June 2025](Assignment_2025.md)
+- [Jan-June 2026](Assignment_2026.md)
 
 ## Resources
 
@@ -18,4 +18,5 @@
 - [Kralovec, C., & Schagerl, M. (2020). **Review of Structural Health Monitoring Methods Regarding a Multi-Sensor Approach for Damage Assessment of Metal and Composite Structures**. Sensors, 20(3), 826. https://doi.org/10.3390/s20030826](Resources/sensors.pdf)
 - [**An integrated approach for structural health monitoring** - A PhD Thesis](https://web.iitd.ac.in/~sbhalla/thesispdf/ramashanker.pdf)
 - [**Previous Year Question Papers: MST-115 (SHMR)**](QPs/List.md)
+- [**Assignments_YJS (Jan-June 2025)**](Assignment_2025.md)
 
