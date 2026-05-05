@@ -8,7 +8,8 @@ Welcome to the assignment portal for the subject **MST-115: Structural Health Mo
 ## 🔖 Assignment List
 
 1. **[Assignment 1 – Serviceability and Durability Assessment using Indian Standards](Assignment_2026/1.md)**
-2. **[Assignment 2 – Conceptual Understanding & SHM Procedures](Assignment_2026/2.md)** 
+2. **[Assignment 2 – Conceptual Understanding & SHM Procedures](Assignment_2026/2.md)**
+3. **[Assignment 3 – Field Testing Techniques and Modern SHM Methods](Assignment_2026/3.md)** 
 
 ---
 
